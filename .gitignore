@@ -1,0 +1,23 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.tmp
+*.backup
+
+# Vivado generated directories
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.Xil/
+
+# User-specific files
+*.xpr.user
+
+# Archives
+*.zip
